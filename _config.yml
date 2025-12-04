@@ -3,3 +3,7 @@ title: Hippogriff's Blog
 author:
   name: Freddie Yershon
   email: hello@freddieyershon.co.uk
+
+minima:
+  # Force the Solarized Dark skin across the site.
+  skin: solarized-dark
