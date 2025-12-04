@@ -1,4 +1,8 @@
 ---
+title: Hippogriff's Blog
+author:
+  name: Freddie Yershon
+  email: hello@freddieyershon.co.uk
 #
 # By default, content added below the "---" mark will appear in the home page
 # between the top bar and the list of recent posts.
@@ -7,3 +11,9 @@
 #
 layout: home
 ---
+
+# Welcome to Hippogriff's Blog
+
+I'm Freddie and I made this blog, cool right?
+I forked a popular Jekyll theme and I'm trying to customise it.
+Have a look around!

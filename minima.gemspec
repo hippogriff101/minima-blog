@@ -3,7 +3,7 @@
 Gem::Specification.new do |spec|
   spec.name     = "minima"
   spec.version  = "3.0.0.dev"
-  spec.authors  = ["Freddie Y"]
+  spec.authors  = ["Freddie Yershon"]
   spec.email    = ["hello@freddieyershon.co.uk"]
 
   spec.summary  = "A beautiful, minimal theme for Jekyll that's been forked by a githubber."
