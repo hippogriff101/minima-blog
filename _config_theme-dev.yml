@@ -1,12 +1,10 @@
-title: Your awesome title
+title: Hippogriff's Blog
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: hippogriff101
+  email: hello@freddieyershon.co.uk
 
 description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+  I got pissed of at minima so I forked the repo and made this awsome blog!
 
 theme: minima
 
