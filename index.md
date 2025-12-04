@@ -12,8 +12,8 @@ author:
 layout: home
 ---
 
-# Welcome to Hippogriff's Blog
+### Welcome to Hippogriff's Blog
 
 I'm Freddie and I made this blog, cool right?
-I forked a popular Jekyll theme and I'm trying to customise it.
+I forked a popular Jekyll theme, Minima, and I'm trying to customise it.
 Have a look around!
