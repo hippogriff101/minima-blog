@@ -45,15 +45,10 @@ minima:
   # date_format: "%b-%d-%Y"
 
   # Social Media Links
-  #   Renders icons via Font Awesome Free webfonts CDN, based on ordered list of entries.
-  #   Entry keys:
-  #     * title    Tooltip rendered on hovering over icon.
-  #     * icon     Font Awesome icon id. `github` corresponds to `fa-github`.
-  #     * url      Full URL of social profile.
   social_links:
-    - title: Minima Theme repository at GitHub
+    - title: GitHub
       icon: github
-      url: "https://github.com/jekyll/minima"
-    - title: Jekyll at X (formerly Twitter)
-      icon: x-twitter
-      url: "https://x.com/jekyllrb"
+      url: "https://github.com/hippogriff101"
+    - title: Instagram
+      icon: instagram
+      url: "https://www.instagram.com/hippogriff101/"
