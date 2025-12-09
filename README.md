@@ -2,4 +2,5 @@
 
 hey, this is my personal blog!
 
-I got pissed of at Jekyll, github and minima so i just forked the repo and I'm going from their!
+Credit to the orignal Minima Jekyll theme, i forked their repo so i could further customise!
+Credit to my fellow hack clubbers for dino images from [here](https://rawr.hackclub.com).
