@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hello, I remade this Jekyll theme cause I was bored, you can find more of my work at my website [here](https://freddieyershon.co.uk).
+Hello, I remade this Jekyll theme because I was bored, you can find more of my work at my website [here](https://freddieyershon.co.uk).
 
 Or take a look at my [Github](https://github.com/hippogriff101)!
 
