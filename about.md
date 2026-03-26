@@ -8,6 +8,7 @@ Hello, I remade this Jekyll theme because I was bored, you can find more of my w
 
 Or take a look at my [Github](https://github.com/hippogriff101)!
 
+This is hosted on github pages - cool right [this is the repo](https://github.com/hippogriff101/minima-blog)
 
 > This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
