@@ -2,6 +2,9 @@
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
 
 .footer-commit {
+	width: 100%;
+	display: flex;
+	justify-content: center;
 	margin-top: 0.75rem;
 	text-align: center;
 	font-size: 0.8rem;
@@ -10,6 +13,8 @@
 .commit-link {
 	display: inline-flex;
 	align-items: center;
+	justify-content: center;
+	flex-wrap: wrap;
 	gap: 0.35rem;
 	color: inherit;
 	text-decoration: none;
@@ -25,6 +30,13 @@
 
 .commit-icon {
 	line-height: 1;
+}
+
+.commit-text {
+	max-width: min(90vw, 560px);
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
 }
 
 .commit-hash {
