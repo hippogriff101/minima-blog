@@ -5,8 +5,8 @@ author:
   email: hello@freddieyershon.co.uk
 
 minima:
-  # Force the Solarized Dark skin across the site.
-  skin: solarized-dark
+  # Use the custom skin defined in _sass/minima/skins/custom.scss.
+  skin: custom
 
   social_links:
     - title: GitHub
