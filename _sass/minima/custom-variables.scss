@@ -1,1 +1,27 @@
-// Placeholder to allow overriding predefined variables smoothly.
+// Custom palette overrides for the site.
+
+$background-color: #E6EEC9 !default;
+$text-color: #7DA78C !default;
+$brand-color: #35858E !default;
+$brand-color-light: mix(#E6EEC9, #35858E, 40%) !default;
+$brand-color-dimmed: mix(#7DA78C, #35858E, 50%) !default;
+$brand-color-dark: darken(#35858E, 8%) !default;
+
+$site-title-color: #35858E !default;
+$heading-color: #35858E !default;
+
+$link-base-color: #35858E !default;
+$link-visited-color: #7DA78C !default;
+$link-hover-color: #4CA6B1 !default;
+
+$border-color-01: mix(#E6EEC9, #35858E, 72%) !default;
+$border-color-02: mix(#7DA78C, #35858E, 58%) !default;
+$border-color-03: #7DA78C !default;
+
+$table-text-color: #7DA78C !default;
+$table-zebra-color: mix(#E6EEC9, #7DA78C, 82%) !default;
+$table-header-bg-color: mix(#E6EEC9, #35858E, 84%) !default;
+$table-header-border: mix(#35858E, #E6EEC9, 50%) !default;
+$table-border-color: mix(#7DA78C, #E6EEC9, 70%) !default;
+
+$code-background-color: mix(#E6EEC9, #ffffff, 86%) !default;
