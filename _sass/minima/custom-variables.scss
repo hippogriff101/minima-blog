@@ -1,5 +1,30 @@
 // Custom palette overrides for the site.
 
+$lm-brand-color: #35858E !default;
+$lm-brand-color-light: mix(#E6EEC9, #35858E, 40%) !default;
+$lm-brand-color-dimmed: mix(#7DA78C, #35858E, 50%) !default;
+$lm-brand-color-dark: darken(#35858E, 8%) !default;
+
+$lm-site-title-color: #35858E !default;
+$lm-heading-color: #35858E !default;
+$lm-text-color: #7DA78C !default;
+$lm-background-color: #E6EEC9 !default;
+$lm-code-background-color: mix(#E6EEC9, #ffffff, 86%) !default;
+
+$lm-link-base-color: #35858E !default;
+$lm-link-visited-color: #7DA78C !default;
+$lm-link-hover-color: #4CA6B1 !default;
+
+$lm-border-color-01: mix(#E6EEC9, #35858E, 72%) !default;
+$lm-border-color-02: mix(#7DA78C, #35858E, 58%) !default;
+$lm-border-color-03: #7DA78C !default;
+
+$lm-table-text-color: #7DA78C !default;
+$lm-table-zebra-color: mix(#E6EEC9, #7DA78C, 82%) !default;
+$lm-table-header-bg-color: mix(#E6EEC9, #35858E, 84%) !default;
+$lm-table-header-border: mix(#35858E, #E6EEC9, 50%) !default;
+$lm-table-border-color: mix(#7DA78C, #E6EEC9, 70%) !default;
+
 $background-color: #E6EEC9 !default;
 $text-color: #7DA78C !default;
 $brand-color: #35858E !default;
